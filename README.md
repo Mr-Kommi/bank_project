@@ -24,7 +24,7 @@ This my Bank Project for a REST based project it is a Django-based project that 
 ### Steps followed to achieve
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Mr-Kommi/
+    git clone [https://github.com/Mr-Kommi/](https://github.com/Mr-Kommi/bank_project)
     
     ```
 
